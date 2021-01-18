@@ -1,0 +1,3 @@
+C:/Users/Mo/Desktop/Edu/Year3_First_Term/Advanced Data structures/SuffixTrie/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Mo/Desktop/Edu/Year3_First_Term/Advanced Data structures/SuffixTrie/cmake-build-debug/CMakeFiles/SuffixTrie.dir
+C:/Users/Mo/Desktop/Edu/Year3_First_Term/Advanced Data structures/SuffixTrie/cmake-build-debug/CMakeFiles/rebuild_cache.dir
